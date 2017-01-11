@@ -12,27 +12,8 @@
 	<div class="viewport">
 	</div>
 
-	<script>
-		var el = document.querySelector('.viewport');
-		for (i = 0; i < 1000; i++) {
-			var star = document.createElement('i')
-			star.className = "star"
-			star.style.top =  random(window.innerHeight) + 'px'
-			star.style.left = random(window.innerWidth) + 'px'
-			star.style.transform = "scale(0." + random(99) + ")"
-			star.style.filter = "blur(0." + random(99) + "px)"
-			el.appendChild(star)
-		}
-
-		function random(last, first) {
-			var first = first || 1
-			return Math.floor((Math.random() * last) + first)
-		}
-
-		function cl(data) {
-			console.log(data)
-		}
-	</script>
+	<script src="js/utils.js"></script>
+	<script src="js/stars.js"></script>
 
 </body>
 </html>
