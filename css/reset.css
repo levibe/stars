@@ -1,0 +1,4 @@
+* { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+html, body { height: 100%; width: 100%; margin: 0; padding: 0; }
+html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body, input, textarea, select, button { font-family: 'Avenir', 'Avenir Next', 'Segoe UI', 'Helvetica Neue', Arial, Helvetica, sans-serif; }
