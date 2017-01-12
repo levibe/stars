@@ -12,8 +12,10 @@ Just load `index.html` in your browser. Reload as many times as you like.
 
 ## Examples
 
-[[https://github.com/levibe/stars/blob/master/examples/output.png]]
+In browser
+![Example Output](https://github.com/levibe/stars/blob/master/examples/output.png)
 
-[[https://github.com/levibe/stars/blob/master/examples/in-use.png]]
+Phone case
+![In Use Example](https://github.com/levibe/stars/blob/master/examples/in-use.png)
 
 Feel free to embrace and extend!
