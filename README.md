@@ -4,13 +4,13 @@
 Needed a simple background on which to overlay a planet image.
 
 ## How to use
-Try it out at http://levibe.github.io/stars.
+Try it out at http://levibe.github.io/stars. Reload as many times as you like.
 
-Or just load `index.html` in your browser. Reload as many times as you like.
+Or just load `index.html` in your browser. 
 
 ## To improve
 - Come up with a way to cluster stars for more of a galaxy look
-- Add Nebulae
+- Add nebulae
 - Add settings to tweak number of stars, biggest star sizes, color intensity, light intensity (glow)
 
 ## Examples
