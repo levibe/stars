@@ -10,8 +10,9 @@ for (i = 0; i < 1000; i++) {
 
 	if (random(1, 10) <= 1) {
 		var glow = random(1, 50)
-		var intensity = glow * random(10, 20) * 0.01
+		var intensity = glow * random(5, 15) * 0.01
 		star.style['box-shadow'] = "0 0 " + glow + "px " + intensity + "px white"
+		star.style.opacity = random(90,100) * .01
 	}
 
 	el.appendChild(star)
