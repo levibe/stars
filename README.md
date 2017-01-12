@@ -1,7 +1,10 @@
 Simple star background generator
 
+## Why
+Needed a simple background on which to overlay a planet image.
+
 ## How to use
-Just load `index.html` in your browser.
+Just load `index.html` in your browser. Reload as many times as you like.
 
 ## To improve
 - Introduce color variation to the stars (slight blue or yellow tones)
