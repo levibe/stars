@@ -10,4 +10,10 @@ Just load `index.html` in your browser. Reload as many times as you like.
 - Introduce color variation to the stars (slight blue or yellow tones)
 - Come up with a way to cluster stars for more of a galaxy look
 
+## Examples
+
+[[https://github.com/levibe/stars/blob/master/examples/output.png]]
+
+[[https://github.com/levibe/stars/blob/master/examples/in-use.png]]
+
 Feel free to embrace and extend!
