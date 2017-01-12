@@ -1,4 +1,4 @@
-Simple star background generator
+**Simple star background generator**
 
 ## Why
 Needed a simple background on which to overlay a planet image.
