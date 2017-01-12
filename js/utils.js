@@ -1,6 +1,5 @@
-function random(last, first) {
-	var first = first || 1
-	return Math.floor((Math.random() * last) + first)
+function random(min, max) {
+	return Math.floor((Math.random() * (max - min)) + min)
 }
 
 function cl(data) {

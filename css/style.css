@@ -2,4 +2,4 @@ body { background: black; }
 
 .viewport { height: 100%; width: 100%; }
 
-.star { height: 2px; width: 2px; display: inline-block; position: absolute; left: 0; right: 0; background: white; border-radius: 100%; }
+.star { height: 2px; width: 2px; display: inline-block; position: absolute; background: white; border-radius: 100%; }
