@@ -7,8 +7,8 @@ Needed a simple background on which to overlay a planet image.
 Just load `index.html` in your browser. Reload as many times as you like.
 
 ## To improve
-- Introduce color variation to the stars (slight blue or yellow tones)
 - Come up with a way to cluster stars for more of a galaxy look
+- Add settings to tweak number of stars, biggest star sizes, color intensity, light intensity (glow)
 
 ## Examples
 
